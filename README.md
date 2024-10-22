@@ -1,1 +1,1 @@
-# Landing Page
+# Blue Summer Landing Page
